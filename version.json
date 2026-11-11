@@ -7,5 +7,7 @@
     "First release.",
     "Diagnoses blue screens (bugchecks), sudden restarts and freezes from Windows' own crash records.",
     "Flight recorder, stress test, event timeline, and automatic updates."
-  ]
+  ],
+  "size": 9577984,
+  "published": "2026-11-11"
 }

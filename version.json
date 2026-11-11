@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "date": "2026-11-11",
+  "url": "https://raw.githubusercontent.com/Dialsoft/crashscout-releases/main/v1.0.0/CrashScout.exe",
+  "sha256": "546476a2985294a231488daa1b5d93ee900d1fa8d81f94ee369c3c6af5dd3dbc",
+  "notes": [
+    "First release.",
+    "Diagnoses blue screens (bugchecks), sudden restarts and freezes from Windows' own crash records.",
+    "Flight recorder, stress test, event timeline, and automatic updates."
+  ]
+}

@@ -1,13 +1,15 @@
 {
-  "version": "1.0.0",
-  "date": "2026-11-11",
-  "url": "https://raw.githubusercontent.com/Dialsoft/crashscout-releases/main/v1.0.0/CrashScout.exe",
-  "sha256": "546476a2985294a231488daa1b5d93ee900d1fa8d81f94ee369c3c6af5dd3dbc",
+  "version": "1.1.0",
+  "date": "2026-11-12",
+  "url": "https://raw.githubusercontent.com/Dialsoft/crashscout-releases/main/v1.1.0/CrashScout.exe",
+  "sha256": "8335cda460e358e7352d2b59332822ef6f721f988983afe9eda7e7066603bf28",
   "notes": [
-    "First release.",
-    "Diagnoses blue screens (bugchecks), sudden restarts and freezes from Windows' own crash records.",
-    "Flight recorder, stress test, event timeline, and automatic updates."
+    "Record Now: one click records the screen along with the readings, saved picture by picture so it survives the crash. Step through what was on screen in the final seconds.",
+    "Restarts that were asked for: names the program that told Windows to restart (updater, installer, remote tool, script).",
+    "Network share crashes: shows the drivers on the crash stack, flags mup.sys, and names the outside drivers next to it.",
+    "System tab lists the file-system filter drivers (same as fltmc), with non-Windows ones marked.",
+    "New reading: network share traffic."
   ],
-  "size": 9577984,
-  "published": "2026-11-11"
+  "size": 9783296,
+  "published": "2026-11-12"
 }

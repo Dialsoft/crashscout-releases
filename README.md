@@ -6,7 +6,7 @@ Crash Scout is a single portable program from Dialsoft LLC. Nothing is installed
 
 ## Download
 
-**[Download CrashScout.exe (version 1.1.0)](https://github.com/Dialsoft/crashscout-releases/raw/main/v1.1.0/CrashScout.exe)**
+**[Download CrashScout.exe (version 1.1.1)](https://github.com/Dialsoft/crashscout-releases/raw/main/v1.1.1/CrashScout.exe)**
 
 1. Save the file anywhere (a USB stick is fine) and run it.
 2. Answer **Yes** to the Windows administrator prompt (needed to read blue screen dump files).
@@ -26,19 +26,13 @@ Windows SmartScreen may warn about a new program: choose **More info > Run anywa
 - Stress test: is it the program, or the PC?
 - Updates itself from this page
 
-A short explainer video is in this repository: `CrashScout-Explainer.mp4`.
+A narrated explainer video (about two minutes) is in this repository: `CrashScout-Explainer.mp4`.
 
 ## Release notes
 
-### 1.1.0 - November 12, 2026
-- **Record Now**: records the screen along with the readings, picture by picture, so it survives the crash.
-- **Restarts that were asked for**: names the program that told Windows to restart.
-- **Network share crashes**: drivers on the crash stack, mup.sys flagged, neighbors named; filter driver list (fltmc); share traffic reading.
-
-### 1.0.0 - November 11, 2026
-- First release.
+See [RELEASE-NOTES.md](RELEASE-NOTES.md). Newest: **1.1.1** (November 13, 2026) adds release notes and video buttons inside the program.
 
 ---
-SHA-256 of CrashScout.exe 1.1.0: `8335cda460e358e7352d2b59332822ef6f721f988983afe9eda7e7066603bf28`
+SHA-256 of CrashScout.exe 1.1.1: `fea70361039c074f4af00b812ff743ef345a86faae30d60cb01ed9700d4108e4`
 
 Copyright (c) Dialsoft LLC. `version.json` is the update feed read by the program.

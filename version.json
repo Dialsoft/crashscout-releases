@@ -1,15 +1,13 @@
 {
-  "version": "1.1.0",
-  "date": "2026-11-12",
-  "url": "https://raw.githubusercontent.com/Dialsoft/crashscout-releases/main/v1.1.0/CrashScout.exe",
-  "sha256": "8335cda460e358e7352d2b59332822ef6f721f988983afe9eda7e7066603bf28",
+  "version": "1.1.1",
+  "date": "2026-11-13",
+  "url": "https://raw.githubusercontent.com/Dialsoft/crashscout-releases/main/v1.1.1/CrashScout.exe",
+  "sha256": "fea70361039c074f4af00b812ff743ef345a86faae30d60cb01ed9700d4108e4",
   "notes": [
-    "Record Now: one click records the screen along with the readings, saved picture by picture so it survives the crash. Step through what was on screen in the final seconds.",
-    "Restarts that were asked for: names the program that told Windows to restart (updater, installer, remote tool, script).",
-    "Network share crashes: shows the drivers on the crash stack, flags mup.sys, and names the outside drivers next to it.",
-    "System tab lists the file-system filter drivers (same as fltmc), with non-Windows ones marked.",
-    "New reading: network share traffic."
+    "Release notes are now inside the program (Help tab).",
+    "New Help buttons: Watch the Video (narrated explainer) and dialsoft.com.",
+    "From 1.1.0: Record Now screen recording, restarts that were asked for, network share crash analysis."
   ],
-  "size": 9783296,
-  "published": "2026-11-12"
+  "size": 9786368,
+  "published": "2026-11-13"
 }
